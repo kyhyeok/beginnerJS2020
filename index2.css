@@ -1,0 +1,15 @@
+.btn {
+  cursor: pointer;
+}
+body {
+  background-color: peru;
+}
+
+h1 {
+  color: white;
+}
+
+button {
+  cursor: pointer;
+  margin-left: 1px;
+}
